@@ -1,1 +1,2 @@
 cc.win32 linguist-language=Pod
+dd.win32 linguist-language=Pod linguist-documentation
