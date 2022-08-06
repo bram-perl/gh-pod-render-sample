@@ -12,3 +12,5 @@ of cc.win32 and bb.pod the same but it isn't. :-(
 
 The .gitattribute does appear to have an effect since aa.win32 and cc.win32
 are rendered differently.
+
+ee.win32 is yet another test and uses a vim modeline with 'syntax=pod'.
